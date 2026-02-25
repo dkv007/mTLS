@@ -6,3 +6,7 @@ OCPP 1.6 is widely deployed in Electric Vehicle (EV) charging infrastructure, bu
   An experimental demonstration of how mTLS prevents those attacks.
 
 This repository supports the experimental results presented in the associated academic research on securing EV charging infrastructure.
+
+The testbed was created for an electricity distribution company's Dev environment.
+To demonstrate similar capabilities, we can use any open-source EVSE code.
+Have forked the sample EVSE code with this project "https://github.com/dkv007/MicroOcpp"
